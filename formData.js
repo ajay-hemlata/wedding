@@ -54,7 +54,7 @@ function handleMe() {
     }
     else {
         console.log("I'm Clicked and Saved")
-        alert("Thank You!");
+        alert("Thank You! We have recived your input.");
         var yourName = document.getElementById('yourName').value;
         var yourNumber = document.getElementById('yourNumber').value;
         // var radioButton = document.getElementById('radio1').value;
