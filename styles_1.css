@@ -4974,7 +4974,7 @@ wpo-hero-slider-s4
     text-align: center;
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 1580px) {
     .static-hero-s2 .wpo-static-hero-inner .wpo-wedding-date #clock>div {
         width: 100px;
     }
