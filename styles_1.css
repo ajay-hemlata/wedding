@@ -10298,7 +10298,7 @@ wpo-hero-slider-s4
 .wpo-event-section .wpo-event-wrap .wpo-event-item .wpo-event-img .title {
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 70%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     width: 100%;
@@ -10365,7 +10365,7 @@ wpo-hero-slider-s4
 }
 
 .wpo-event-section .wpo-event-wrap .wpo-event-item .wpo-event-img::before {
-    position: absolute;
+/*     position: absolute; */
     left: 50%;
     bottom: -20px;
     content: "";
